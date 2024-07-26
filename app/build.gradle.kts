@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lab_ux"
+    namespace = "com.example.barbieh"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.lab_ux"
-        minSdk = 34
+        applicationId = "com.example.barbieh"
+        minSdk = 33
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"

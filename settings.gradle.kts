@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LAB_UX"
+rootProject.name = "BARBIEH"
 include(":app")
  

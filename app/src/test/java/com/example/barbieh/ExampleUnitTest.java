@@ -1,4 +1,4 @@
-package com.example.lab_ux;
+package com.example.barbieh;
 
 import org.junit.Test;
 
